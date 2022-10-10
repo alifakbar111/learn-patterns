@@ -52,3 +52,11 @@ The Provider receives a value prop, which contains the data that we want to pass
 Since the `Toggle` and `List components` are both wrapped within the `ThemeContext` provider, we have access to the values theme and toggleTheme that are passed as a value to the provider.
 
 Each component like ListItem and Toggle an get access to the data, by using the `useContext` hook.
+
+<br>
+
+### **Adv** 
+The Provider pattern/Context API makes it possible to pass data to many components, without having to manually pass it through each component layer.
+
+### **(Dis)adv** 
+In some cases, overusing the Provider pattern can result in performance issues. All components that consume the context re-render on each state change.
