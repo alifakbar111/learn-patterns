@@ -1,0 +1,27 @@
+html,
+body {
+  background-color: #ffffff;
+  margin: 0;
+}
+
+.App {
+  font-family: sans-serif;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a;
+}
+
+button {
+  margin: 0 30px !important;
+}
+
+label {
+  color: white;
+}
+
+h1 {
+  color: #ffffff;
+}
