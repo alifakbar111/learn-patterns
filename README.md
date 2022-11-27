@@ -19,3 +19,8 @@ This for resume from [Patterns Dev](https://www.patterns.dev/)
   - [Flyweight Pattern](https://github.com/alifakbar111/learn-patterns/tree/main/design-patterns/13-flyweight-pattern)
   - [Factory Pattern](https://github.com/alifakbar111/learn-patterns/tree/main/design-patterns/14-factory-pattern)
   - [Compound Pattern](https://github.com/alifakbar111/learn-patterns/tree/main/design-patterns/15-compound-pattern)
+
+- [Rendering Patterns](https://github.com/alifakbar111/learn-patterns/tree/main/rendering-patterns)
+  - [Client Side Patterns](https://github.com/alifakbar111/learn-patterns/tree/main/rendering-patterns/client-side-rendering)
+  - [Server Side Rendering](https://github.com/alifakbar111/learn-patterns/tree/main/rendering-patterns/server-side-rendering)
+  - [Static Rendering](https://github.com/alifakbar111/learn-patterns/tree/main/rendering-patterns/static-rendering)
